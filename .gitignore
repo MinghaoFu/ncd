@@ -147,3 +147,4 @@ records
 ._synthetic
 synthetic/notebooks/partial_identifiability Workspace – Weights & Biases.html
 *.npz
+*.out
